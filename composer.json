@@ -22,8 +22,8 @@
     "require": {
         "php": "^5.6|^7.0",
 
-        "sylius/registry": "^0.19",
-        "sylius/resource": "^0.19"
+        "sylius/registry": "dev-symfony_3_compatibility",
+        "sylius/resource": "dev-symfony_3_compatibility"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4"
